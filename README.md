@@ -1,8 +1,8 @@
 #  云原生架构
-[![CNCF Landscape](images/CloudNativeStack.png)](https://raw.githubusercontent.com/hackstoic/cloud-native-eco-system/master/cloud-native-eco-system/CloudNativeStack.png)
+[![CNCF Landscape](images/CloudNativeStack.png)](https://raw.githubusercontent.com/hackstoic/cloud-native-eco-system/master/images/CloudNativeStack.png)
 
 #  云原生生态
-[![CNCF Landscape](images/CloudNativeLandscape.jpg)](https://raw.githubusercontent.com/hackstoic/cloud-native-eco-system/master/cloud-native-eco-system/CloudNativeLandscape.jpg)
+[![CNCF Landscape](images/CloudNativeLandscape.jpg)](https://raw.githubusercontent.com/hackstoic/cloud-native-eco-system/master/images/CloudNativeLandscape.jpg)
 
 #  相关社区和厂商
 ##  应用程序定义和开发
