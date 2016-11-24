@@ -7,13 +7,13 @@
 #  相关社区和厂商
 ##  应用程序定义和开发
 ### 语言和框架
-- [Golang]()
-- [React]()
-- [Nodejs]()
-- [Rails]()
-- [Php]()
-- [Python]()
-- [Spring]()
+- [Golang](https://github.com/golang)
+- [React](https://github.com/facebook/react)
+- [Nodejs](https://github.com/nodejs)
+- [Rails](https://github.com/rails)
+- [Php](https://github.com/php)
+- [Python](https://github.com/python)
+- [Spring](https://github.com/spring-projects)
 
 ### 数据
 - [PostgreSQL]()
