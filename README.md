@@ -27,31 +27,31 @@
 - [NATS](https://github.com/nats-io)
 
 ### 源码管理
-- [GitHub]()
-- [GitLab]()
-- [Bitbucket]()
+- [GitHub](https://github.com/)
+- [GitLab](https://github.com/gitlabhq)
+- [Bitbucket](https://bitbucket.org/)
 
 ### 应用定义
-- [Packer]()
-- [Docker-Compose]()
-- [Habitat]()
+- [Packer](https://github.com/mitchellh/packer)
+- [Docker-Compose](https://github.com/docker/compose)
+- [Habitat](https://github.com/habitat-sh)
 
 ### 注册服务
-- [Docker-Registry]()
-- [Quay]()
-- [JFrog Artifactory]()
-- [Atomic]()
+- [Docker-Registry](https://github.com/docker/distribution)
+- [Quay](https://github.com/coreos/quay-docs)
+- [JFrog Artifactory](https://github.com/JFrogDev)
+- [Atomic](https://github.com/projectatomic/atomic)
 
 ###  CI/CD
-- [Jenkins]()
-- [Travis CI]()
-- [Circleci]()
+- [Jenkins](https://github.com/jenkinsci)
+- [Travis CI](https://travis-ci.org/)
+- [Circleci](https://circleci.com/)
 
 ###  第三方API
-- [Twilio]()
-- [Stripe]()
-- [Segment]()
-- [AuthO]()
+- [Twilio](https://www.twilio.com/)
+- [Stripe](https://stripe.com/)
+- [Segment](https://segment.com/)
+- [Auth0](https://auth0.com/)
 
 
 ##  编排和管理
