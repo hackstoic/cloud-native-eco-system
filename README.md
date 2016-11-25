@@ -111,20 +111,20 @@
 ##  配置管理
 
 ### 基础设施自动化
-- [BOSH]()
-- [TERRAFORM]()
-- [CloudFormation]()
+- [BOSH](https://github.com/cloudfoundry/bosh)
+- [Terraform](https://github.com/hashicorp/terraform)
+- [CloudFormation](https://aws.amazon.com/cn/cloudformation/)
 
 ### 主机管理
-- [Ansible]()
-- [CHEF]()
-- [SaltStack]()
-- [Puppet]()
+- [Ansible](https://github.com/ansible)
+- [Chef](https://github.com/chef)
+- [SaltStack](https://github.com/saltstack)
+- [Puppet](https://github.com/puppetlabs/puppet)
 
 ### 安全镜像
-- [Clair]()
-- [Twistlock]()
-- [Docker Security]()
+- [Clair](https://github.com/coreos/clair)
+- [Twistlock](https://www.twistlock.com/)
+- [Docker Security](https://github.com/docker/docker-bench-security)
 
 
 ##  基础设施
