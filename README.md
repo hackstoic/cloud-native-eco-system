@@ -84,6 +84,7 @@
 - [GlusterFS](https://github.com/gluster/glusterfs)
 - [SolidFire](https://www.solidfire.com/)
 - [Ceph](https://github.com/ceph)
+- [Rook](https://github.com/rook)
 - [Diamanti](https://diamanti.com/)
 - [Minio](https://github.com/minio)
 - [Portworx](https://github.com/portworx)
@@ -172,3 +173,4 @@
 ### 追踪定位
 - [OpenTracing](https://github.com/opentracing)
 - [ZIPKIN](https://github.com/openzipkin/zipkin)
+
